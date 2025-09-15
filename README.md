@@ -49,3 +49,5 @@ The page is designed to deliver a dynamic user experience through:
 ## 🔗 Live Preview
 
 View the project live here:
+
+[Kasper Landing Page](https://abddalrahman.github.io/Extended-Landing-Page/)
